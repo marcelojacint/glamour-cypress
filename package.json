@@ -1,0 +1,27 @@
+{
+  "name": "glamour-cypress",
+  "version": "1.0.0",
+  "description": "Testes E2E com Cypress da loja Glamour Perfumaria e Acessórios",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelojacint/glamour-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "testes"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelojacint/glamour-cypress/issues"
+  },
+  "homepage": "https://github.com/marcelojacint/glamour-cypress#readme",
+  "devDependencies": {
+    "cypress": "^16.4.0"
+  }
+}

@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+
+# Credenciais locais
+cypress.env.json
+
+# Artefatos gerados pelo Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Arquivos de ferramentas e editores
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
+.cursorrules
+.windsurf/
+.github/copilot-instructions.md
+.vscode/
+.idea/
+.DS_Store

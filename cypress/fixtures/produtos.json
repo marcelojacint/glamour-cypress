@@ -1,0 +1,24 @@
+{
+  "blackOpium": {
+    "slug": "black-opium",
+    "nome": "Black Opium",
+    "preco": 459.9
+  },
+  "laVieEstBelle": {
+    "slug": "la-vie-est-belle",
+    "nome": "La Vie Est Belle",
+    "preco": 389.9,
+    "precoPromo": 299.9
+  },
+  "bombshell": {
+    "slug": "bombshell",
+    "nome": "Bombshell",
+    "preco": 199.9,
+    "precoPromo": 159.9
+  },
+  "miniatura": {
+    "slug": "miniatura-la-vie-est-belle",
+    "nome": "Miniatura La Vie Est Belle",
+    "preco": 89.9
+  }
+}
